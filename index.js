@@ -1,5 +1,3 @@
-import { setupMaster } from "cluster";
-
 function printString(myString) {
     console.log(myString[0]);
    
